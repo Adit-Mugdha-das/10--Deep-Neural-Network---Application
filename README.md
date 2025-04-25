@@ -1,6 +1,6 @@
 # Deep Neural Network – Cat vs Non-Cat Classifier 
 
-This assignment is an application of a deep L-layer neural network to classify images as cats or non-cats.  
+This  is an application of a deep L-layer neural network to classify images as cats or non-cats.  
 It is the final assignment of **Week 4 (Course 1: Neural Networks and Deep Learning)** from the **Deep Learning Specialization** by Andrew Ng on Coursera.
 
 ##  Project Overview
